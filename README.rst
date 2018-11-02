@@ -1,6 +1,9 @@
 lx-pylib
 ========
 
+.. image:: https://travis-ci.org/hilarryxu/lx-pylib.svg?branch=master
+    :target: https://travis-ci.org/hilarryxu/lx-pylib
+
 Some useful python utils.
 
 
