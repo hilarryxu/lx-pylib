@@ -1,5 +1,8 @@
-*.pyc
-tags
-
+*.py[co]
+build/
+dist/
+*.egg-info/
 .venv/
+
+tags
 tmp/
